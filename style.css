@@ -12,7 +12,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #103778;
+  background-color: #497599;
 }
 body .card {
   margin: 1.5em 1.5em 0 1.5em;
@@ -117,6 +117,7 @@ body .card .profile .creation .name:hover {
   cursor: pointer;
 }
 body .footer {
+  display: none;
   color: #FF7A48;
   font-size: 0.7em;
   padding: 1em;

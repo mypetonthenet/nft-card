@@ -9,7 +9,7 @@ $Outfit: 'Outfit', sans-serif;
 $Soft-blue: #E9E8E8; 
 $Cyan: #0593A2;
 $Cyan-hover: #E3371E;
-$Very-dark-blue-main-BG: #103778; 
+$Very-dark-blue-main-BG: #497599; 
 $Very-dark-blue-card-BG: #151F30;
 $Very-dark-blue-line: #2f415b;
 $White: #FF7A48;
@@ -136,6 +136,7 @@ body {
         }
     }
     .footer {
+        display: none;
         color: $White;
         font-size: .7em;
         padding: 1em;
